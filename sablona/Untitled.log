@@ -1,0 +1,39 @@
+
+25.09.17 10:43:12 - ERROR: Download of "http://wp.hostlin.com/duisburg/images/gradient/g30.png",
+	referenced from "http://wp.hostlin.com/duisburg/css/revolution-slider.css",
+	failed with error code -1100 (File does not exist.)
+25.09.17 10:43:12 - ERROR: Download of "http://wp.hostlin.com/duisburg/images/gradient/g40.png",
+	referenced from "http://wp.hostlin.com/duisburg/css/revolution-slider.css",
+	failed with error code -1100 (File does not exist.)
+25.09.17 10:43:17 - ERROR: Download of "http://wp.hostlin.com/duisburg/css/assets/transparent.png",
+	referenced from "http://wp.hostlin.com/duisburg/css/revolution-slider.css",
+	failed with error code -1100 (File does not exist.)
+25.09.17 10:43:18 - ERROR: Download of "http://wp.hostlin.com/revolution.themepunch.com/wp-content/uploads/2014/05/wave21.png",
+	referenced from "http://wp.hostlin.com/duisburg/css/revolution-slider.css",
+	failed with error code -1100 (File does not exist.)
+25.09.17 10:43:53 - ERROR: Download of "http://wp.hostlin.com/duisburg/blog-detail.html",
+	referenced from "http://wp.hostlin.com/duisburg/shop.html",
+	failed with error code -1100 (File does not exist.)
+25.09.17 10:44:00 - ERROR: Download of "http://wp.hostlin.com/duisburg/css/owl.video.play.png",
+	referenced from "http://wp.hostlin.com/duisburg/css/owl.css",
+	failed with error code -1100 (File does not exist.)
+25.09.17 10:44:02 - ERROR: Download of "http://wp.hostlin.com/duisburg/css/images/ui-icons_444444_256x240.png",
+	referenced from "http://wp.hostlin.com/duisburg/css/jquery-ui.css",
+	failed with error code -1100 (File does not exist.)
+25.09.17 10:44:02 - ERROR: Download of "http://wp.hostlin.com/duisburg/css/images/ui-icons_555555_256x240.png",
+	referenced from "http://wp.hostlin.com/duisburg/css/jquery-ui.css",
+	failed with error code -1100 (File does not exist.)
+25.09.17 10:44:02 - ERROR: Download of "http://wp.hostlin.com/duisburg/css/images/ui-icons_ffffff_256x240.png",
+	referenced from "http://wp.hostlin.com/duisburg/css/jquery-ui.css",
+	failed with error code -1100 (File does not exist.)
+25.09.17 10:44:02 - ERROR: Download of "http://wp.hostlin.com/duisburg/css/images/ui-icons_777620_256x240.png",
+	referenced from "http://wp.hostlin.com/duisburg/css/jquery-ui.css",
+	failed with error code -1100 (File does not exist.)
+25.09.17 10:44:02 - ERROR: Download of "http://wp.hostlin.com/duisburg/css/images/ui-icons_cc0000_256x240.png",
+	referenced from "http://wp.hostlin.com/duisburg/css/jquery-ui.css",
+	failed with error code -1100 (File does not exist.)
+25.09.17 10:44:02 - ERROR: Download of "http://wp.hostlin.com/duisburg/css/images/ui-icons_777777_256x240.png",
+	referenced from "http://wp.hostlin.com/duisburg/css/jquery-ui.css",
+	failed with error code -1100 (File does not exist.)
+
+---------------------
